@@ -161,23 +161,23 @@ The coverage in EclEmma reached 99.1%. The uncovered codes are in the constructe
 
 ## Example usage
 1. Add places and a transition  
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/1.png)
+![image](example/1.png)
 
 2. Add arcs  
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/2.png)
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/simulation1.png)
+![image](example/2.png)
+![image](example/simulation1.png)
 
 4. Fire the transition, the first time can fire, the second time can't  
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/3.png)
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/simulation2.png)
+![image](example/3.png)
+![image](example/simulation2.png)
 
 6. Modify the Petrinet, and fire the transition  
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/4.png)
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/simulation3.png)
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/simulation4.png)
+![image](example/4.png)
+![image](example/simulation3.png)
+![image](example/simulation4.png)
 
 8. Remove the place (and the related arcs), remove the transition (and the related arcs)  
-![image](https://github.com/yuyan-z/fil-rouge/blob/main/example/5.png)
+![image](example/5.png)
 
 
 
